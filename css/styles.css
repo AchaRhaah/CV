@@ -1,0 +1,102 @@
+body {
+  margin : 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+
+}
+h1{
+  margin-top:50px auto;
+  font-size: 500%;
+  color:  #66BFBF;
+
+  font-family: "Sacramento",cursive;
+}
+h2{
+  font-family: "Montserrat",sans-serif;
+  font-weight: 500;
+  font-size: 3.5rem;
+  color: #66BFBF;
+}
+h3{
+  font-family: "Montserrat",sans-serif;
+  color:  #11999E;
+    margin-top: 50px;
+}
+div {
+
+}
+.top-container{
+    background-color: #E4F9F5;
+    position:relative;
+    padding-top: 100px;
+
+}
+.middle-container{
+  background-color: #CCF2F4;
+
+}
+.bottom-container{
+  background-color: #CCF2F4;
+
+}
+
+
+.top-cloud{
+  width: 200px;
+  position: absolute;
+  right:350px;
+  top:50px;
+}
+.mountain{
+  width:800px;
+  height: 350px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px
+  bottom: 300px;
+  width: 180px;
+}
+.my_pic{
+width:30%;
+
+}
+.snake_game{
+  width: 30%;
+float:left;
+margin-right: 30px;
+
+}
+.hair_pics{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+
+}
+.food{
+  width:30%;
+  float: left;
+  margin-bottom: 50px;
+}
+p{
+  color: #1DB9C3;
+  line-height: 2;
+  text-align: left;
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.special{
+  text-align: center;
+}
+hr {
+
+  height: 2px;
+  width:5%;
+  border-style: dotted none none ;
+  border-color: gray;
+  border-width: 10px;
+
+}
